@@ -1,4 +1,4 @@
-# Build Microservice with ASP.NET Core
+# Build Microservice with ASP.NET Core and Distribute with Docker image
 
 ## About
 Experiment creating microservices with .NET
@@ -6,12 +6,12 @@ Experiment creating microservices with .NET
 ## Framework and tools
 .NET SDK 3.1.201, VSCode, Docker image
 
-## create and run the service
-`dotnet new webapi -o myMicroservice --no-https` 
+## Create and run the service
+`dotnet new webapi -o myMicroservice --no-https`
 
 `dotnet run` 
 
-`http://localhost:5000/WeatherForecast` 
+`http://localhost:5000/WeatherForecast`
 
 ## Download and Install Docker
 `docker --version` 
