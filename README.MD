@@ -24,11 +24,23 @@ Experiment creating microservices with .NET
 ## Create and Run Docker image
 `docker build -t mymicroservice .`
 
-`docker run -it --rm -p 3000:80 --name mymicroservicecontainer mymicroservice`
+`docker run -it --rm -p 5566:80 --name mymicroservicecontainer mymicroservice`
 
 ## Browser URL or view the container running
-- `http://localhost:3000/WeatherForecast`
+- `http://localhost:5566/WeatherForecast`
 
 - `docker ps`
 
 ## Credited by Microsoft documentation
+Docker Cli
+List all containers (only IDs) 
+`docker ps -aq.`
+
+Stop all running containers. 
+`docker stop $(docker ps -aq)`
+
+Remove all containers. 
+`docker rm $(docker ps -aq)`
+
+Remove all images. 
+`docker rmi $(docker images -q)`

@@ -1,0 +1,16 @@
+
+# production
+build
+
+# misc
+.DS_Store
+
+.vscode
+
+.vscode/*
+bin
+obj
+bin/
+Bin/
+obj/
+Obj/

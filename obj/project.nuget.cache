@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUeZrd1xnXxVkS/AABQFgdyjuBj1CPa1HW9fbAKYVDISoJj0h2PzSZYSfHFAEOLUG/AIlvSareSpZMK0ZLrkXQ==",
+  "dgSpecHash": "F/Y1+NsF63g/Zx/vbTgboSVGzMoDC5JFPuJvBnjiz9NfMhqXI+qBlG/T6zpdfOH3EbynLouS41vHgnAiyj9kgA==",
   "success": true,
-  "projectFilePath": "C:\\myMicroservice\\myMicroservice.csproj",
+  "projectFilePath": "C:\\github.mskcc.org\\myMicroservice\\myMicroservice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

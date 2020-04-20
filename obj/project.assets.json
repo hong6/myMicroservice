@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\myMicroservice\\myMicroservice.csproj",
+      "projectUniqueName": "C:\\github.mskcc.org\\myMicroservice\\myMicroservice.csproj",
       "projectName": "myMicroservice",
-      "projectPath": "C:\\myMicroservice\\myMicroservice.csproj",
+      "projectPath": "C:\\github.mskcc.org\\myMicroservice\\myMicroservice.csproj",
       "packagesPath": "C:\\Users\\liux2\\.nuget\\packages\\",
-      "outputPath": "C:\\myMicroservice\\obj\\",
+      "outputPath": "C:\\github.mskcc.org\\myMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
